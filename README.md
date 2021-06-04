@@ -1,4 +1,4 @@
-# Applying Linear Regression to Determine the Most Important Features in Home Pricing
+# Applying Linear Regression to Determine the Most Important Features in Residential Home Pricing
 ## King County, Washington
 
 For this project, I was tasked with applying linear regression models to the King County, WA, real-estate dataset.  I took the approach of a startup real-estate company developing a model to predict home prices and looking at the most important features in determining price.  
