@@ -22,7 +22,7 @@ I developed a linear-regression model using Seattle residential sales data from 
 
 I first explored the data, including it's tabular distribution and visually using GeoPandas, to explore how the sales were distributed across King County by sales value: 
 
-# INSERT MAP.PNG
+<img src = "https://github.com/jnels13/King_County_Real_Estate_Sales_Linear_Regression_Modeling/blob/master/map.png">
 
 I also performed initial EDA to remove any NaNs and checked for multicollinearity, removing features that caused high incidences of multicollinearity.  I also checked the normality of the continuous feautres' distribution, and due to some outliers, I limited the scope of the anaylsis and log-transformed some features to keep the distributions normal and to avoid the potential disproportionate effect of super high-end homes.  Finally, I reviewed for potential multicollinearity once more before before modelling. 
 
