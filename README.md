@@ -16,7 +16,7 @@ For this project, I was tasked with applying linear regression models to the Kin
 
 ### Overview
 
-I developed a linear-regression model using Seattle residential sales data from the King County, Washington, real-estate data set. Middle-class homes tend to be more standardized, while luxury homes contain non-standard features not reflected in the dataset which can affect price (i.e., built-in electronics, artisan or high-end woodwork, tilework, and appliances/fixtures).  According, the model focuses on middle-class homes. 
+I developed a linear-regression model using Seattle residential sales data from the King County, Washington, real-estate data set. Middle-class homes tend to be more standardized, while luxury homes contain non-standard features not reflected in the dataset which can affect price (i.e., built-in electronics, artisan or high-end woodwork, tilework, and appliances/fixtures).  Accordingly, the model focuses on middle-class homes. 
 
 ### Process
 
